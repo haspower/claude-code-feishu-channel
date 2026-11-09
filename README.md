@@ -65,6 +65,7 @@ Claude 的回复 ◀─────────│   (本地 MCP 服务)  │◀
 | `im:resource` | 获取与上传图片或文件资源 |
 | `im:chat` | 获取群组信息 |
 | `im:message.reactions:write` | 添加消息表情回复 |
+| `im:message.p2p_msg:readonly` | 单聊消息 |
 
 6. 创建应用版本并发布（企业内部应用可直接发布）
 
